@@ -2,6 +2,10 @@
 
 Automatically perform a super jump capable of obtaining the Super Suit by emulating a controller on an Arduino Micro
 
+
+https://github.com/user-attachments/assets/6415ab1a-7826-4940-8d1e-5b9b829b21b6
+
+
 ### How to use
 
 1. Make sure the "Auto Select" battle setting is set to "On".
