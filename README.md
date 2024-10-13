@@ -78,6 +78,13 @@ And that's it! Your super jumper is ready.
 
 The script found within `Joystick.c` can be modified and repurposed for all sorts of other tedious Mario RPG tasks, such as playing "Look The Other Way" to get the Star Egg, or farming rock candies from seaside town.
 
+### Other Switch Automation Resources
+
+- https://github.com/Brikwerk/nxbt (I tried to use this, and it worked will for non-time sensitive automation, but I couldn't get the timing tight enough for super jump)
+- https://gist.github.com/bp2008/dff8957bfa040be51a2c561a2b2aca51 (this approach uses a physical servo to press the jump button. I didn't want to design a jig so I didn't go this route)
+- https://www.consoletuner.com/products/titan-one/ (looks slightly hackable with a scratch-like programming interface)
+- https://www.switch-up.ca/ (this also came up during my research but doesn't seem hackable)
+
 ### Thanks
 
 Thanks to Bertrand Fan for his blog post on [Automating Zelda](https://medium.com/@bertrandom/automating-zelda-3b37127e24c8) as it provided the foundation on which to build this project (especially the nice little scripting system he created). 
