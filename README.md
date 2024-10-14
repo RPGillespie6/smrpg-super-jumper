@@ -80,9 +80,9 @@ The script found within `Joystick.c` can be modified and repurposed for all sort
 
 ### Other Switch Automation Resources
 
-- https://github.com/Brikwerk/nxbt (I tried to use this, and it worked will for non-time sensitive automation, but I couldn't get the timing tight enough for super jump)
-- https://gist.github.com/bp2008/dff8957bfa040be51a2c561a2b2aca51 (this approach uses a physical servo to press the jump button. I didn't want to design a jig so I didn't go this route)
-- https://www.consoletuner.com/products/titan-one/ (looks slightly hackable with a scratch-like programming interface)
+- https://github.com/Brikwerk/nxbt (I tried to use this, and it worked well for non-time sensitive automation, but I couldn't get the timing tight enough for super jump)
+- https://gist.github.com/bp2008/dff8957bfa040be51a2c561a2b2aca51 (this approach uses a physical servo to press the jump button. I didn't want to design a jig so I didn't go this route, but seems viable)
+- https://www.consoletuner.com/products/titan-one/ (looks hackable with a scratch-like programming interface; see [this reddit thread](https://www.reddit.com/r/MarioRPG/comments/18nyaqq/i_coded_a_macro_that_will_automatically/))
 - https://www.switch-up.ca/ (this also came up during my research but doesn't seem hackable)
 
 ### Thanks
